@@ -1,0 +1,51 @@
+form{
+   float:center;
+   padding:2px;
+   cursor:pointer;
+   display:block;
+   width:auto;
+   margin:auto;
+   text-align:center;
+ 	
+}
+
+body{
+	background-color:orange;
+	
+	
+}
+
+img{
+	margin-top: 15px;
+	
+	
+}
+
+.borderN{
+	border: 1px solid #000000;
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+	padding: 7px;
+	text-align: center;
+	background:orange;
+	
+	
+}
+
+#imgM{
+	margin-top: 15px;	
+   	text-align:center;	
+}
+
+p{
+	text-align:justify;
+	margin-right:5%;
+	margin-left: 5%;
+	
+}
+h1{
+	margin-right:5%;
+	margin-left: 5%;
+	
+}
+
